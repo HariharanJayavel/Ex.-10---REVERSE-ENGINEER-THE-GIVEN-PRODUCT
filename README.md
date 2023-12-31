@@ -48,17 +48,8 @@
 ### Output:
 ![9](https://github.com/Sellakumar1987/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870546/4abb32bf-78b8-469d-b288-8d50eefd55bf)
 
-
-
 ### Name:HARIHARAN J
-### Register Number:23011967
-
-## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
-
-
-### Name:
-### Register Number:
+### Register Number:212223240047
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
